@@ -1,10 +1,10 @@
 export const cardsData = [
   {
     id: "card-1",
-    url: "valoraprime.vercel.app",
-    href: "https://valoraprime.vercel.app/",
-    title: "Valora Prime",
-    subtitle: "valoraprime.justcoddev.com",
+    url: "aigen.230603.xyz",
+    href: "https://aigen.230603.xyz/",
+    title: "AI image generator",
+    subtitle: "aigen.230603.xyz",
     imageSrc: "/img/projects/valoraprime.png",
     imageAlt: "App icon",
     className: "custom-card-class",
