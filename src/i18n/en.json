@@ -1,15 +1,15 @@
 {
-  "SEO_TITLE": "ItsTeddyDev Hub - Resource and Content Center",
-  "SEO_DESCRIPTION": "Explore books, articles, hobbies, and educational resources at Justcoddev's personal hub. Discover the best of my career and my recommendations.",
+  "SEO_TITLE": "My site links Hub - Resource and Content Center",
+  "SEO_DESCRIPTION": "Explore books, articles, hobbies, and educational resources at personal hub. Discover the best of my career and my recommendations.",
   "ERROR_404": {
     "TITLE": "404 - Not Found",
     "DESCRIPTION": "Not Found",
     "BACK_HOMEPAGE_BTN": "Go Back"
   },
   "HERO": {
-    "NAME": "Teddy Summers",
+    "NAME": "Site Links Hub",
     "TITLE": "Software Engineer",
-    "DESCRIPTION": "I'm a software engineer who loves to learn and share knowledge. I'm passionate about technology, programming, and software development. I'm always looking for new challenges and opportunities to grow."
+    "DESCRIPTION": "My personal sites links hub,just for personal useage."
   },
   "ABOUT": {
     "TITLE": "about",
